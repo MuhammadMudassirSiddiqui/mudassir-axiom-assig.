@@ -1,0 +1,280 @@
+* {
+    margin: 0px;
+}
+
+.one {
+    width: 100%;
+    height: 100%;
+    background-color: lavender;
+}
+
+
+/*
+
+.onetwo {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(5, 88, 70);
+    height: 25px;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+}
+
+#logo {
+    padding-left: 0px;
+    height: 100px;
+}
+
+header {
+    padding-top: 10px;
+    padding-left: 550px;
+}
+
+.opper {
+    margin-left: 50px;
+    padding-top: 500px;
+    color: white;
+    background-color: rgb(5, 88, 70);
+} test k liay:*/
+
+#arifbhai {
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.onethree {
+    width: 800px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 420px;
+    margin-left: 100px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 60px;
+}
+
+#para {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+input {
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 110px;
+    margin-left: 400px;
+    border-radius: 10px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(5, 88, 70), rgb(118, 247, 118));
+}
+
+.onethreeone {
+    margin-top: 200px;
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: center;
+}
+
+#capitalize {
+    font-size: 40px;
+}
+
+#nintyk {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+#che {
+    display: inline;
+}
+
+#avb {
+    margin-top: 60px;
+    margin-right: 100px;
+    color: rgb(102, 91, 91);
+    opacity: 0.7;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    word-spacing: 8px;
+}
+
+.onefour {
+    background-color: lavender;
+    margin-left: 100px;
+}
+
+.mudassir {
+    margin-left: 40px;
+    margin-top: 100px;
+    padding: 60px 90px 60px 90px;
+    background-color: lavenderblush;
+    border-top-width: 25px;
+    border-top-style: solid;
+    text-decoration: none;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+#maya {
+    border-top-color: blue;
+    color: blue;
+    transition: all 1s ease 0s;
+}
+
+#maya:hover {
+    background-color: blue;
+    transition: all 1s ease 0s;
+    color: white;
+    opacity: 0.7;
+}
+
+#mayo {
+    border-top-color: rgb(231, 45, 116);
+    color: rgb(231, 45, 116);
+    transition: all 1s ease 0s;
+}
+
+#mayo:hover {
+    background-color: rgb(231, 45, 116);
+    color: white;
+    opacity: 0.7;
+    transition: all 1s ease 0s;
+}
+
+#mama {
+    border-top-color: rgb(240, 185, 66);
+    color: rgb(240, 185, 66);
+    transition: all 1s ease 0s;
+}
+
+#mama:hover {
+    background-color: rgb(240, 185, 66);
+    color: white;
+    opacity: 0.7;
+    transition: all 1s ease 0s;
+}
+
+#mamo {
+    border-top-color: rgb(5, 88, 70);
+    color: rgb(5, 88, 70);
+    transition: all 1s ease 0s;
+}
+
+#mamo:hover {
+    background-color: rgb(5, 88, 70);
+    color: white;
+    opacity: 0.7;
+    transition: all 1s ease 0s;
+}
+
+
+/*
+
+.wraperone {
+    width: 500px;
+    height: 100px;
+    display: hidden;
+}
+opacity: 0.7;
+.mainone {
+    width: 500px;
+    height: 100px;
+    border-top-width: 25px;
+    border-top-color: blue;
+    border-top-style: solid;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    display: hidden;
+}
+
+#maya {
+    background-color: lavender;
+    color: blue;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.hoverone {
+    background-color: blue;
+    font-size: 13px;
+    width: 500px;
+    height: 100px;
+}
+
+.areeba {
+    color: white;
+}
+
+#maya:hover {
+    margin-top: -90px;
+}*/
+
+.ali {
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.maaz {
+    margin-left: 50px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    font-size: 16px;
+    color: lavender;
+}
+
+#logo {
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+header {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    background-color: rgb(5, 88, 70);
+    height: 70px;
+}
+
+.arshad {
+    background-color: rgb(5, 88, 70);
+}
+
+nav {
+    margin-left: 800px;
+    display: inline-block;
+    vertical-align: text-top;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    padding-top: 24px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(5, 88, 70);
+}
+
+.maaz {
+    transition: all 2s ease 0s;
+}
+
+.maaz:hover {
+    color: rgb(67, 192, 167);
+}
