@@ -1,0 +1,202 @@
+.a1 {
+    background-color: lavender;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: teal;
+    font-family: sans-serif;
+    height: 75px;
+    transition: all 6s ease 1s;
+}
+
+.a2 {
+    position: fixed;
+    top: 30px;
+    text-decoration: none;
+    margin-left: 400px;
+    transition: all 5s ease 1s;
+}
+
+.a3 {
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+    margin: 20px 40px;
+}
+
+.img1 {
+    height: 120px;
+    margin: 20px 20px;
+}
+
+
+/*header completed*/
+
+.img2 {
+    margin: 120px 30px;
+    background-color: lavender;
+}
+
+.a4 {
+    width: 850px;
+    height: 500px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -600px;
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+
+.a5 {
+    margin-bottom: 25px;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.a6 {
+    margin-bottom: 40px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.a7 {
+    line-height: 25px;
+    position: relative;
+    animation: text 5s;
+}
+
+@keyframes text {
+    10% {
+        color: lavender;
+        visibility: hidden;
+    }
+    50% {
+        margin-right: 0px;
+        letter-spacing: 5px;
+        color: white;
+    }
+    80% {
+        color: black;
+    }
+}
+
+.btn {
+    margin-top: 40px;
+    margin-left: 550px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(to right, teal, rgb(87, 219, 168));
+}
+
+.a8 {
+    font-size: 70px;
+    font-weight: lighter;
+}
+
+.a9 {
+    margin-left: 710px;
+    margin-top: -60px;
+}
+
+span {
+    display: block;
+}
+
+.a10 {
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+/*neechay walay anchor elements*/
+
+.a12 {
+    margin-top: 90px;
+    margin-left: -350px;
+}
+
+.a13 {
+    margin-left: 20px;
+    padding: 60px 90px;
+    background-color: lavenderblush;
+    border-top-width: 25px;
+    border-top-style: solid;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    animation: link 4s;
+}
+
+@keyframes link {
+    0% {
+        background-color: lavender;
+        margin-left: -200px;
+    }
+    50% {
+        margin-right: -400px;
+        background-color: lavender;
+        transition: all 2s;
+    }
+}
+
+#a131 {
+    border-top-color: navy;
+    color: navy;
+}
+
+#a131:hover {
+    background-color: navy;
+    color: white;
+    transition: all 2s;
+    opacity: 0.7;
+}
+
+#a132 {
+    border-top-color: rgb(228, 140, 201);
+    color: rgb(228, 140, 201);
+}
+
+#a132:hover {
+    background-color: rgb(228, 140, 201);
+    color: white;
+    transition: all 2s;
+    opacity: 0.7;
+}
+
+#a133 {
+    border-top-color: rgb(209, 209, 52);
+    color: rgb(209, 209, 52);
+}
+
+#a133:hover {
+    background-color: rgb(209, 209, 52);
+    color: white;
+    transition: all 2s;
+    opacity: 0.7;
+}
+
+#a134 {
+    border-top-color: teal;
+    color: teal;
+}
+
+#a134:hover {
+    background-color: teal;
+    color: white;
+    transition: all 2s;
+    opacity: 0.7;
+}
